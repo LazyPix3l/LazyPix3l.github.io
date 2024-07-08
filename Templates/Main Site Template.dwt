@@ -21,13 +21,12 @@ body {
 }
 #flashmovies {
 	position: absolute;
-	border: 10px outset #33CC66;
-	width: 422px;
-	height: 318px;
-	left: 150px;
-	top: 93px;
+	width: 442px;
+	height: 368px;
+	left: 151px;
+	top: 82px;
 	font-size: 24px;
-	font-weight: bold;
+	font-weight: 900;
 }
 
 #navbarimg {
@@ -56,13 +55,12 @@ body {
 <div id="flashmovies">
 
   <!-- TemplateBeginEditable name="swf file" -->
-  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="422" height="326">
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="445" height="343">
     <param name="movie" value="/swfs/DummyFile.swf" />
     <param name="quality" value="high" />
-    <embed src="/swfs/DummyFile.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="422" height="326"></embed>
+    <embed src="/swfs/DummyFile.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="445" height="343"></embed>
   </object>
-  <!-- TemplateEndEditable -->
-</div>
+  <!-- TemplateEndEditable --></div>
 </div>
 <a href="Https://ruffle.rs"><img src="../imgs/rufflebutton.gif" alt="Download Ruffle Now!!" width="320" border="0" /></a>
 
